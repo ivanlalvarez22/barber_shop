@@ -244,6 +244,10 @@ th {
   margin: 1em auto;
 }
 
+.footer{
+  background: rgba(0, 0, 0, 0.596);
+}
+
 @media screen and (max-width: 400px) {
   h1 {
     text-align: center;
